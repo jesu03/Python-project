@@ -1,0 +1,17 @@
+Basics fundamentals of py:
+
+1.Keywords and Identifiers
+
+2.Statements & Comments
+
+3.Python Variables
+
+4.Python Datatypes
+
+5.Python Type Conversion
+
+6.Python I/O and import
+
+7.Python Operators
+
+8.Python Namespace
